@@ -17,6 +17,7 @@ Hardware:
   raspberrypi
   wire
   
+(Ill add pictures if people care)
 # Hardware Instructions:
 * Open piano
 * unsolder/cut wires from buttons
