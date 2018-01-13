@@ -1,6 +1,8 @@
 # rpi_hacked_baby_instrument
 Python based midi instrument toy hacked into a baby toy using raspberrypi gpios
 
+Video example: https://www.youtube.com/watch?v=knuSGUGNOsc
+
 I'll make this better in the future, I swear
 
 
